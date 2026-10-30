@@ -1,16 +1,17 @@
 <div align="center">
 
 # Ali Hasnain Rizvi
+
 ### Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=650&height=35&lines=Frontend+Development;React+%7C+Next.js+%7C+Angular;React+Native+%7C+TypeScript;API+Integration+%7C+AI+Applications" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=2563EB&center=true&vCenter=true&width=550&height=35&lines=Frontend+Development;React+%7C+Next.js+%7C+Angular;React+Native+%7C+TypeScript;API+Integration+%7C+AI+Applications" alt="Typing Animation" />
 
 <p>
   <a href="mailto:alihasnain20820@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/ali-hasnain-00a02821b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -20,7 +21,7 @@
 
 ---
 
-## About Me
+## ✦ About Me
 
 Software Engineer with professional experience since March 2023, specializing in building modern web applications, mobile applications, and enterprise SaaS products.
 
@@ -36,107 +37,107 @@ I focus on frontend engineering, API integration, application architecture, and 
 
 ---
 
-## Technical Skills
+## ✦ Technical Skills
 
-### Frontend Development
+**Frontend Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,sass" alt="Frontend Technologies"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,sass" alt="Frontend Technologies"/>
-</p>
+**State Management & UI Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=redux,tailwind,bootstrap,materialui" alt="State Management and UI Technologies"/>
 
-### State Management & UI Development
+**Development Tools & Testing**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,jest,webpack" alt="Development Tools"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=redux,tailwind,bootstrap,materialui" alt="State Management and UI Technologies"/>
-</p>
-
-### Development Tools & Testing
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,jest,webpack" alt="Development Tools"/>
-</p>
-
-### API Integration & Other Technologies
-
-- RESTful APIs
-- Axios and Fetch API
-- OpenAI API
-- Payment Gateway APIs
-- WebSockets
-- Swagger Documentation
-- React Testing Library
-- Chart.js and Recharts
-- Storybook
-- Agile / Scrum
+**API Integration & Other Technologies**
+RESTful APIs · Axios and Fetch API · OpenAI API · Payment Gateway APIs · WebSockets · Swagger Documentation · React Testing Library · Chart.js and Recharts · Storybook · Agile / Scrum
 
 ---
 
-## Selected Projects
+## ✦ Selected Projects
 
-### 01. Apex POS — Automotive Workshop ERP
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Technology Stack:** React 19, TypeScript, Vite, Wouter, Express, Supabase, PostgreSQL
+<h3>01. Apex POS</h3>
+<p><b>Automotive Workshop ERP</b></p>
+<p><sub><code>React 19</code> · <code>TypeScript</code> · <code>Vite</code> · <code>Wouter</code> · <code>Express</code> · <code>Supabase</code> · <code>PostgreSQL</code></sub></p>
+<p>A multi-tenant automotive workshop ERP application focused on managing workshop operations.</p>
+<ul>
+  <li>Inventory and stock management.</li>
+  <li>Product catalog management.</li>
+  <li>Purchase order management.</li>
+  <li>Shop and branch-level inventory workflows.</li>
+  <li>Backend API integration.</li>
+  <li>Database-driven business operations.</li>
+</ul>
 
-A multi-tenant automotive workshop ERP application focused on managing workshop operations.
+</td>
+<td width="50%" valign="top">
 
-**Key Features & Development Areas:**
-- Inventory and stock management.
-- Product catalog management.
-- Purchase order management.
-- Shop and branch-level inventory workflows.
-- Backend API integration.
-- Database-driven business operations.
+<h3>02. Remit 5</h3>
+<p><b>International Money Transfer Platform</b></p>
+<p><sub><code>React Native</code> · <code>Redux</code> · <code>Payment APIs</code> · <code>WebSockets</code></sub></p>
+<p>Professional project experience at Stratesfy Systems.</p>
+<ul>
+  <li>Developed mobile application frontend interfaces.</li>
+  <li>Integrated APIs for payment processing and KYC verification.</li>
+  <li>Implemented multi-step transaction forms and recipient selection.</li>
+  <li>Developed real-time transaction tracking using WebSockets.</li>
+  <li>Built beneficiary management and transaction history interfaces.</li>
+  <li>Implemented error handling and network retry mechanisms.</li>
+</ul>
 
-### 02. Remit 5 — International Money Transfer Platform
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Technology Stack:** React Native, Redux, Payment APIs, WebSockets
+<h3>03. Octopus</h3>
+<p><b>Enterprise No-Code Platform</b></p>
+<p><sub><code>Angular</code> · <code>Next.js</code> · <code>React</code> · <code>TypeScript</code> · <code>OpenAI API</code></sub></p>
+<p>Professional project experience at Stratesfy Systems.</p>
+<ul>
+  <li>Worked on frontend development and migration from Angular to Next.js.</li>
+  <li>Integrated OpenAI APIs for AI-assisted application blueprint generation.</li>
+  <li>Implemented streaming AI responses and Markdown rendering.</li>
+  <li>Developed dynamic form builders and workflow configuration interfaces.</li>
+  <li>Built interactive dashboards using Chart.js and Recharts.</li>
+  <li>Developed role-based access control interfaces.</li>
+</ul>
 
-Professional project experience at Stratesfy Systems.
+</td>
+<td width="50%" valign="top">
 
-**Key Contributions:**
-- Developed mobile application frontend interfaces.
-- Integrated APIs for payment processing and KYC verification.
-- Implemented multi-step transaction forms and recipient selection.
-- Developed real-time transaction tracking using WebSockets.
-- Built beneficiary management and transaction history interfaces.
-- Implemented error handling and network retry mechanisms.
+<h3>04. Integration Portal</h3>
+<p><b>Developer API Platform</b></p>
+<p><sub><code>React</code> · <code>Redux</code> · <code>Next.js</code></sub></p>
+<p>Professional project experience at Stratesfy Systems.</p>
+<ul>
+  <li>Developed developer-facing API integration interfaces.</li>
+  <li>Implemented Swagger-based API documentation viewing.</li>
+  <li>Built API testing interfaces with request and response inspection.</li>
+  <li>Developed webhook configuration and event logging interfaces.</li>
+  <li>Implemented API credential management interfaces.</li>
+  <li>Developed API usage analytics dashboards.</li>
+</ul>
 
-### 03. Octopus — Enterprise No-Code Platform
-
-**Technology Stack:** Angular, Next.js, React, TypeScript, OpenAI API
-
-Professional project experience at Stratesfy Systems.
-
-**Key Contributions:**
-- Worked on frontend development and migration from Angular to Next.js.
-- Integrated OpenAI APIs for AI-assisted application blueprint generation.
-- Implemented streaming AI responses and Markdown rendering.
-- Developed dynamic form builders and workflow configuration interfaces.
-- Built interactive dashboards using Chart.js and Recharts.
-- Developed role-based access control interfaces.
-
-### 04. Integration Portal
-
-**Technology Stack:** React, Redux, Next.js
-
-Professional project experience at Stratesfy Systems.
-
-**Key Contributions:**
-- Developed developer-facing API integration interfaces.
-- Implemented Swagger-based API documentation viewing.
-- Built API testing interfaces with request and response inspection.
-- Developed webhook configuration and event logging interfaces.
-- Implemented API credential management interfaces.
-- Developed API usage analytics dashboards.
+</td>
+</tr>
+</table>
 
 ---
 
-## Professional Experience
+## ✦ Professional Experience
 
-### Software Engineer
+**Software Engineer**
+<br/>
 **Stratesfy Systems, Inc.**
-
-March 2023 – Present | Karachi, Pakistan
+<br/>
+<sub>March 2023 – Present | Karachi, Pakistan</sub>
 
 - Develop web and mobile applications using React, Next.js, Angular, and React Native.
 - Build scalable frontend architectures using TypeScript.
@@ -150,33 +151,37 @@ March 2023 – Present | Karachi, Pakistan
 
 ---
 
-## Education
+## ✦ Education
 
-**Master of Science in Information Security**  
-NED University of Engineering & Technology  
-*In Progress*
-
-**Bachelor of Science in Computer Science**  
-Sir Syed University of Engineering & Technology  
-2020 – 2024 | CGPA: 3.2 / 4.0
-
----
-
-## Awards & Recognition
-
-- **Merit-Based Scholarship for Academic Excellence (2022–2024)**  
-  Awarded for four consecutive semesters.
-
-- **University Project Exhibition – Distinguished Recognition (2024)**  
-  Recognition for Final Year Project.
+**Master of Science in Information Security**
+<br/>
+<sub>NED University of Engineering & Technology | *In Progress*</sub>
+<br/><br/>
+**Bachelor of Science in Computer Science**
+<br/>
+<sub>Sir Syed University of Engineering & Technology | 2020 – 2024 | CGPA: 3.2 / 4.0</sub>
 
 ---
 
-## Let's Connect
+## ✦ Awards & Recognition
+
+🏅 **Merit-Based Scholarship for Academic Excellence (2022–2024)**
+<br/>
+<sub>Awarded for four consecutive semesters.</sub>
+<br/><br/>
+🏅 **University Project Exhibition – Distinguished Recognition (2024)**
+<br/>
+<sub>Recognition for Final Year Project.</sub>
+
+---
+
+<div align="center">
+
+### Let's Connect
 
 I'm interested in software engineering, frontend architecture, modern web technologies, AI integration, and building practical software solutions.
 
-<p align="center">
+<p>
   <a href="mailto:alihasnain20820@gmail.com">
     <img src="https://img.shields.io/badge/Email-alihasnain20820%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -184,8 +189,6 @@ I'm interested in software engineering, frontend architecture, modern web techno
     <img src="https://img.shields.io/badge/LinkedIn-Ali%20Hasnain%20Rizvi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
-<div align="center">
 
 *Building practical software through thoughtful engineering.*
 
